@@ -1,6 +1,6 @@
 # Healthcare Backend
 
-This is a Django + DRF backend for a healthcare system.
+This is a Django + Django REST Framework backend for a healthcare system.
 
 ## Features
 
